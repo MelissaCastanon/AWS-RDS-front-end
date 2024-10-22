@@ -1,6 +1,6 @@
 // Esperar a que el DOM esté completamente cargado
 document.addEventListener("DOMContentLoaded", () => {
-    const API_URL = 'http://50.16.165.200/app-intro-connection/Getrecorsd.php';
+    const API_URL = 'http://35.174.8.221//app-intro-connection/Getrecorsd.php';
 
     // Referencias a elementos del DOM
     const tbody = document.querySelector("tbody");
